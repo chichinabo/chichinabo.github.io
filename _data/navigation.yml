@@ -2,7 +2,7 @@
 
 - title: Getting Started
   url: /getting-started/
-  excerpt: "Everything you need to know to get started with Skinny Bones and Jekyll."
+  excerpt: "Basics to understand Chichinabo projects."
   image: 400x250.gif
 
 - title: Popyramids
@@ -10,12 +10,12 @@
   excerpt: "Sample apps for exploring the popyramids databases."
   image: 400x250.gif
 
-- title: Development
-  url: /development/
-  excerpt: "Technical articles for building chichinabo databases, services or apps."
-  image: 400x250.gif
+#- title: Development
+#  url: /development/
+#  excerpt: "Technical articles for building chichinabo databases, services or apps."
+#  image: 400x250.gif
 
 - title: About
   url: /about/
-  excerpt: "All about Skinny Bones for Jekyll."
+  excerpt: "All about Chichinabo.org"
   image: 400x250.gif

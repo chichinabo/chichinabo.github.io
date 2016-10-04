@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Popyramid's Gallery"
-date: 2014-05-30T11:40:45-04:00
+date: 2016-10-04T00:00:00-00:00
 modified:
 excerpt: "Apps and visualizations for exploring the chichinabo popyramids database."
 tags: []
@@ -10,7 +10,7 @@ image:
   teaser:
 ---
 
-Check the actual data availability in the popyramid's [resources wiki](resources wiki).
+Check the actual data availability in the [resources wiki](resources wiki).
 
 <div class="tiles">
 {% for post in site.categories.popyramids %}

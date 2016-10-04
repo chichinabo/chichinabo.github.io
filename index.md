@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: hexagon-866195_1920.jpg
+  feature: board-597238_1920.jpg
 ---
 
 <div class="tiles">
@@ -10,7 +10,6 @@ image:
 <div class="tile">
   <h2 class="post-title">Small Data</h2>
   <p class="post-excerpt">"Small data connects people with timely, meaningful insights (derived from big data and/or “local” sources), organized and packaged – often visually – to be accessible, understandable, and actionable for everyday tasks." - Small Data Group.</p>
-
 </div><!-- /.tile -->
 
 <div class="tile">
