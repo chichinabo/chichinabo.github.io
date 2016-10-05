@@ -28,3 +28,11 @@ image:
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
+
+## Featured Apps
+
+<div class="tiles">
+{% for post in site.categories.apps %}
+  {% include post-grid.html %}
+{% endfor %}
+</div><!-- /.tiles -->

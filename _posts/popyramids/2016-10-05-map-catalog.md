@@ -1,7 +1,7 @@
 ---
 layout: media
 title: "Map Catalog"
-categories: popyramids
+categories: [popyramids, apps]
 excerpt: "Explore all the pyramids in the map by shape (up to 500 at a time)."
 image:
   feature: 
@@ -12,7 +12,7 @@ image:
 ---
 
 <figure>
-	<a href="http://popyramids.chichinabo.org/apps/map_catalog/"><img src="{{ site.url }}/images/popyramids/map_catalog.png"></a>
+	<a href="http://popyramids.chichinabo.org/apps/map_catalog/"  target="_blank"><img src="{{ site.url }}/images/popyramids/map_catalog.png"></a>
 	<figcaption>Left click on the image to open this app.</figcaption>
 </figure>
 

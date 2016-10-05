@@ -1,7 +1,7 @@
 ---
 layout: media
 title: "Give Me Five"
-categories: popyramids
+categories: [popyramids, apps]
 excerpt: "See the top 5 pyramids in the area at the same time."
 image:
   feature: 
@@ -11,10 +11,8 @@ image:
 
 ---
 
-This is an R Shiny App which consists in a dashboard...
-
 <figure>
-	<a href="http://popyramids.chichinabo.org/apps/give_me_five/"><img src="{{ site.url }}/images/popyramids/give_me_five.png"></a>
+	<a href="http://popyramids.chichinabo.org/apps/give_me_five/"  target="_blank"><img src="{{ site.url }}/images/popyramids/give_me_five.png"></a>
 	<figcaption>Left click on the image to open this app.</figcaption>
 </figure>
 

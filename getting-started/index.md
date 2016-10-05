@@ -5,9 +5,9 @@ date: 2016-10-04T00:00:00-00:00
 excerpt:
 tags: []
 image:
-  feature:
-  teaser:
-  thumb:
+  feature: road-1668916_1920.jpg
+  teaser: road-1668916_640.jpg
+  thumb: road-1668916_640.jpg
 share: false
 ---
 
@@ -17,12 +17,14 @@ The basics for understanding what Chichinabo.org is (and what it isn't).
 
 ## Purpose
 
-It is said that about the 80% of data analysis is spent in data preparation tasks. Cleaning, organizing, collecting new data sets, creating charts or mining for paterns are some of the tasks required before you can get some insight from data. Chichinabo.org searches datasets where these tasks could be done only one more time.
+It is said that about the 80% of data analysis is spent in data preparation tasks. Cleaning, organizing, collecting new data sets, creating charts or mining for paterns are some of the tasks required before you can get some insight from data. Chichinabo.org looks for datasets where these tasks could be done only one more time.
 
 We want to create simple, cheap and rehusable code projects for improving accesibility of certain public datasets.
 
 
-## Conditions for creating a Chichinabo project
+## Conditions for creating a project
+
+Chichinabo.org is organized into simple and useful data projects. 
 
 Internet and database technologies may change, but a Chichinabo project will remain:
 
@@ -42,16 +44,18 @@ Internet and database technologies may change, but a Chichinabo project will rem
   * Scientists
   * Developers
 
-It is not a condition but, originally, Chichinabo was intended to work with spatial datasets. You may find many features for working with maps.
+It is not a condition but, originally, Chichinabo.org was intended to work with spatial datasets. You may find many features for working with maps.
 
 
----
+
 ## Architecture and technologies
 
 ### Datawarehouse
 
 - PostgreSQL/PostGIS
-- Foreign Data Wrappers
+- Redis
+- ES
+- Mongo DB
 
 ### Services
 
@@ -61,16 +65,16 @@ It is not a condition but, originally, Chichinabo was intended to work with spat
 
 - R Shiny
 
-### Software orchestration (Dockers)
+### Software orchestration
+
+- Dockers
 
 
 ## Currently working projects
 
- - Popyramids.
- - ...
+- Popyramids. It is a geospatial database which stores population data by sex and age groups, associated to a geographical area. Take a look at the different apps developed on the top of this database.
 
 
----
 ## Contributing
 
 
@@ -93,7 +97,6 @@ Found a bug or aren't quite sure how something works? By all means submit an iss
 
 
 
----
 
 ## License
 

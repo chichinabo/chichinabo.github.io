@@ -1,7 +1,7 @@
 ---
 layout: media
 title: "Face to Face"
-categories: popyramids
+categories: [popyramids, apps]
 excerpt: "Compare two popyramids from different areas, years or sources."
 image:
   feature: 
@@ -11,10 +11,9 @@ image:
 
 ---
 
-This is an R Shiny App which consists in a dashboard...
 
 <figure>
-	<a href="http://popyramids.chichinabo.org/apps/face_to_face/"><img src="{{ site.url }}/images/popyramids/face_to_face.png"></a>
+	<a href="http://popyramids.chichinabo.org/apps/face_to_face/"  target="_blank"><img src="{{ site.url }}/images/popyramids/face_to_face.png"></a>
 	<figcaption>Left click on the image to open this app.</figcaption>
 </figure>
 
