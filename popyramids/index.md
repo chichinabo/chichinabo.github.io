@@ -6,8 +6,9 @@ modified:
 excerpt:
 tags: []
 image:
-  feature:
-  teaser:
+  feature: zurich-1600x800.gif
+  teaser: zurich-400x250.gif
+  thumb: zurich-120x120.gif
 ---
 
 The popyramids database was the first chichinabo project. It stores population data by sex and age groups, associated to a geographical area.

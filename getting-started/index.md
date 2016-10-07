@@ -1,14 +1,13 @@
 ---
-layout: article
+layout: archive
 title: "Getting Started with Chichinabo.org"
 date: 2016-10-04T00:00:00-00:00
 excerpt:
 tags: []
 image:
-  feature: road-1668916_1920.jpg
-  teaser: road-1668916_640.jpg
-  thumb: road-1668916_640.jpg
-share: false
+  feature: road-1600x800.gif
+  teaser: road-400x250.gif
+  thumb: road-120x120.gif
 ---
 
 The basics for understanding what Chichinabo.org is (and what it isn't).

@@ -3,12 +3,12 @@
 - title: Getting Started
   url: /getting-started/
   excerpt: "Basics to understand Chichinabo projects."
-  image: road-1668916_640.jpg
+  image: road-400x250.gif
 
 - title: Popyramids
   url: /popyramids/
   excerpt: "Sample apps for exploring the popyramids databases."
-  image: 400x250.gif
+  image: zurich-400x250.gif
 
 #- title: Development
 #  url: /development/
@@ -18,4 +18,4 @@
 - title: About
   url: /about/
   excerpt: "All about Chichinabo.org"
-  image: 400x250.gif
+  image: face-400x250.gif
