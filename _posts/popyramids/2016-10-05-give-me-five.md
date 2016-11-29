@@ -12,7 +12,7 @@ image:
 ---
 
 <figure>
-	<a href="http://popyramids.chichinabo.org/apps/give_me_five/"  target="_blank"><img src="{{ site.url }}/images/popyramids/give_me_five.png"></a>
+	<a href="http://aulageomatica.ua.es/apps/apps/give_me_five/"  target="_blank"><img src="{{ site.url }}/images/popyramids/give_me_five.png"></a>
 	<figcaption>Left click on the image to open this app.</figcaption>
 </figure>
 
